@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|c:\\users\\kauem\\source\\repos\\trabalhoa2\\trabalhoa2\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|solutionrelative:trabalhoa2\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|c:\\users\\kauem\\source\\repos\\trabalhoa2\\trabalhoa2\\controllers\\pedidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|solutionrelative:trabalhoa2\\controllers\\pedidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|c:\\users\\kauem\\source\\repos\\trabalhoa2\\trabalhoa2\\controllers\\fornecedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|solutionrelative:trabalhoa2\\controllers\\fornecedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|c:\\users\\kauem\\source\\repos\\trabalhoa2\\trabalhoa2\\controllers\\estoquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|solutionrelative:trabalhoa2\\controllers\\estoquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|c:\\users\\kauem\\source\\repos\\trabalhoa2\\trabalhoa2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|solutionrelative:trabalhoa2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|c:\\users\\kauem\\source\\repos\\trabalhoa2\\trabalhoa2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87E9E8D-C11A-47AC-8501-C2996920DA46}|TrabalhoA2\\TrabalhoA2.csproj|solutionrelative:trabalhoa2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoesController.cs",
+              "DocumentMoniker": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\ProdutoesController.cs",
+              "RelativeDocumentMoniker": "TrabalhoA2\\Controllers\\ProdutoesController.cs",
+              "ToolTip": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\ProdutoesController.cs",
+              "RelativeToolTip": "TrabalhoA2\\Controllers\\ProdutoesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:34:39.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoesController.cs",
+              "DocumentMoniker": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\PedidoesController.cs",
+              "RelativeDocumentMoniker": "TrabalhoA2\\Controllers\\PedidoesController.cs",
+              "ToolTip": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\PedidoesController.cs",
+              "RelativeToolTip": "TrabalhoA2\\Controllers\\PedidoesController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswFcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:32:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FornecedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\FornecedorsController.cs",
+              "RelativeDocumentMoniker": "TrabalhoA2\\Controllers\\FornecedorsController.cs",
+              "ToolTip": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\FornecedorsController.cs",
+              "RelativeToolTip": "TrabalhoA2\\Controllers\\FornecedorsController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:31:11.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstoquesController.cs",
+              "DocumentMoniker": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\EstoquesController.cs",
+              "RelativeDocumentMoniker": "TrabalhoA2\\Controllers\\EstoquesController.cs",
+              "ToolTip": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\EstoquesController.cs",
+              "RelativeToolTip": "TrabalhoA2\\Controllers\\EstoquesController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowFQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:30:25.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "TrabalhoA2\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "TrabalhoA2\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwFkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:29:12.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "TrabalhoA2\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\kauem\\source\\repos\\TrabalhoA2\\TrabalhoA2\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "TrabalhoA2\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswGEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:25:51.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

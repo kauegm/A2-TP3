@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrabalhoA2</name>
+    </assembly>
+    <members>
+        <member name="M:TrabalhoA2.Controllers.CategoriasController.GetCategoria">
+            <summary>
+            Obtem Categoria
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.CategoriasController.GetCategoria(System.Int32)">
+            <summary>
+            Obtem Categoria
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.CategoriasController.PutCategoria(System.Int32,TrabalhoA2.Request.CategoriaRequest)">
+            <summary>
+            Atualiza Categoria
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.CategoriasController.PostCategoria(TrabalhoA2.Request.CategoriaRequest)">
+            <summary>
+            Post de Categoria
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.CategoriasController.DeleteCategoria(System.Int32)">
+            <summary>
+            Deleta Categoria
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ClientesController.GetCliente">
+            <summary>
+            Obtem Cliente
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ClientesController.GetCliente(System.Int32)">
+            <summary>
+            Obtem Cliente
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ClientesController.PutCliente(System.Int32,TrabalhoA2.Request.ClienteRequest)">
+            <summary>
+            Atualiza Cliente
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ClientesController.PostCliente(TrabalhoA2.Request.ClienteRequest)">
+            <summary>
+            Post de Cliente
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ClientesController.DeleteCliente(System.Int32)">
+            <summary>
+            Deleta Cliente
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.EstoquesController.GetEstoque">
+            <summary>
+            Obtem Estoque
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.EstoquesController.GetEstoque(System.Int32)">
+            <summary>
+            Obtem Estoque
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.EstoquesController.PutEstoque(System.Int32,TrabalhoA2.Request.EstoqueRequest)">
+            <summary>
+            Atualiza Estoque
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.EstoquesController.PostEstoque(TrabalhoA2.Request.EstoqueRequest)">
+            <summary>
+            Post de Estoque
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.EstoquesController.DeleteEstoque(System.Int32)">
+            <summary>
+            Delete Estoque
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.FornecedorsController.GetFornecedor">
+            <summary>
+            Obtem Fornecedor
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.FornecedorsController.GetFornecedor(System.Int32)">
+            <summary>
+            Obtem Fornecedor
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.FornecedorsController.PutFornecedor(System.Int32,TrabalhoA2.Request.FornecedorRequest)">
+            <summary>
+            Atualiza Fornecedor
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.FornecedorsController.PostFornecedor(TrabalhoA2.Request.FornecedorRequest)">
+            <summary>
+            Post de Fornecedor
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.FornecedorsController.DeleteFornecedor(System.Int32)">
+            <summary>
+            Deleta Fornecedor
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.PedidoesController.GetPedido">
+            <summary>
+            Obtem Pedido
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.PedidoesController.GetPedido(System.Int32)">
+            <summary>
+            Obtem Pedido
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.PedidoesController.PutPedido(System.Int32,TrabalhoA2.Resquest.PedidoRequest)">
+            <summary>
+            Atualiza Pedido
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.PedidoesController.PostPedido(TrabalhoA2.Resquest.PedidoRequest)">
+            <summary>
+            Post de Pedido
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.PedidoesController.DeletePedido(System.Int32)">
+            <summary>
+            Deleta Pedido
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ProdutoesController.GetProduto">
+            <summary>
+            Obtem Produto
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ProdutoesController.GetProduto(System.Int32)">
+            <summary>
+            Obtem Produto
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ProdutoesController.PutProduto(System.Int32,TrabalhoA2.Request.ProdutoRequest)">
+            <summary>
+            Atualiza Produto
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ProdutoesController.PostProduto(TrabalhoA2.Request.ProdutoRequest)">
+            <summary>
+            Post de Produto
+            </summary>
+        </member>
+        <member name="M:TrabalhoA2.Controllers.ProdutoesController.DeleteProduto(System.Int32)">
+            <summary>
+            Deleta Produto
+            </summary>
+        </member>
+        <member name="T:TrabalhoA2.Migrations.TrabalhoA2">
+            <inheritdoc />
+        </member>
+        <member name="M:TrabalhoA2.Migrations.TrabalhoA2.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TrabalhoA2.Migrations.TrabalhoA2.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TrabalhoA2.Migrations.TrabalhoA2.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
