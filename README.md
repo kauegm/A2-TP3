@@ -74,7 +74,6 @@ A API contém 6 módulos principais:
 - **.NET**: Framework principal para o desenvolvimento da API.
 - **Swagger**: Ferramenta para documentação e execução interativa das rotas.
 - **Entity Framework**: Para gerenciar o banco de dados e realizar as operações CRUD.
-- **SQL Server**: Banco de dados utilizado para armazenar as informações.
 
 ---
 
@@ -83,7 +82,6 @@ A API contém 6 módulos principais:
 ### Pré-requisitos
 - Visual Studio Community ou superior.
 - SDK do .NET instalado (versão compatível com o projeto).
-- SQL Server configurado.
 
 ### Passos para Configuração
 
